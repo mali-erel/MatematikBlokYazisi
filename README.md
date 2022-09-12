@@ -5,11 +5,9 @@ Patika.dev Temel Matematik dersi için  3x3 Matrix Determinant belirlemeye dair 
 
 Örnek Matrix : 
 
-'''
 M = (1 5 3)
     (2 4 7)
     (4 6 2)  
-'''
 
 ##1. Aşama:
 İlk satırı 1. referans noktası kabul edelim: 1 5 3.
